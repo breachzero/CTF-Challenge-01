@@ -20,7 +20,7 @@ Participants must identify the vulnerability in the application and trigger an a
 
 ## Usage Instructions
 
-1. Open the application in a browser.
+1. Open the url https://breachzero.github.io/CTF-Challenge-01/ in a browser.
 2. Enter a username in the input box and submit the form.
 3. Analyze the behavior and find the vulnerability.
 
